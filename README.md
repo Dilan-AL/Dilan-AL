@@ -10,11 +10,12 @@
 
 
 <h3>🦾 About Me</h3>
+Electrical & Electronics Engineering student at NIT Calicut. I build things that fly, move, think and automate.
 <ul>
-<li>Electrical &amp; Electronics Engineering student at NIT Calicut — Minor in UAV Systems</li>
-<li>Building things that fly, move, think, and automate</li>
-<li>Currently deep in ROS2 and computer vision</li>
+<li>Passionate about Embedded Systems, Robotics and Autonomous Systems</li>
+<li>Love working with hardware + software</li>
 <li>Always learning. Always building.</li>
+<li>Currently exploring the world of ROS2 and computer vision</li>
 </ul>
 
 <h3>🎯 Current Focus</h3>
@@ -38,12 +39,6 @@
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,matlab,opencv"/>
 <img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&labelColor=0D1117"/>
-
-<h3>🏆 GitHub Goals</h3>
-<img src="https://img.shields.io/badge/Embedded_Software-0D1117?style=for-the-badge&labelColor=0D1117"/> ➡️
-<img src="https://img.shields.io/badge/Robotics-0D1117?style=for-the-badge&labelColor=0D1117"/> ➡️
-<img src="https://img.shields.io/badge/Drone_Autonomy-0D1117?style=for-the-badge&labelColor=0D1117"/> ➡️
-<img src="https://img.shields.io/badge/Impact-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 <b>Quest Progress — SkyScan (AeroTHON 2026)</b><br/>
@@ -69,9 +64,7 @@
 <li>📖 Reading — mythology &amp; classics</li>
 </ul>
 
-<h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Dilan-AL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilan-AL&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 
 </td>
 </tr>
