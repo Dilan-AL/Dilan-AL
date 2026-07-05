@@ -9,7 +9,7 @@
 <td width="65%" valign="top">
 
 
-### 🦾𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+### 🦾 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Electrical & Electronics Engineering student at NIT Calicut. I build things that fly, move, think and automate.
 <ul>
 <li>Passionate about Embedded Systems, Robotics and Autonomous Systems</li>
@@ -18,13 +18,13 @@ Electrical & Electronics Engineering student at NIT Calicut. I build things that
 <li>Currently exploring the world of ROS2 and computer vision</li>
 </ul>
 
-### 🎯 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘍𝘰𝘤𝘶𝘴   . . . . .
+### 🎯 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘍𝘰𝘤𝘶𝘴   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 <img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Autonomous_Systems-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117"/>
 <img src="https://img.shields.io/badge/Embedded_Software-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117"/>
 
-### 🛠️ 𝘚𝘬𝘪𝘭𝘭𝘴 & 𝘛𝘰𝘰𝘭𝘴
+### 🛠️ 𝘚𝘬𝘪𝘭𝘭𝘴 & 𝘛𝘰𝘰𝘭𝘴 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 <b>Languages</b><br/>
 <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,js"/>
@@ -47,7 +47,7 @@ Electrical & Electronics Engineering student at NIT Calicut. I build things that
 </td>
 <td width="35%" valign="top">
 
-### 🎮 𝘗𝘭𝘢𝘺𝘦𝘳 𝘐𝘯𝘧𝘰
+### 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘐𝘯𝘧𝘰
 <ul>
 <li>🕹️ GitHub: <a href="https://github.com/Dilan-AL">Dilan-AL</a></li>
 <li>🎓 Degree: B.Tech EEE, NIT Calicut</li>
@@ -58,7 +58,7 @@ Electrical & Electronics Engineering student at NIT Calicut. I build things that
 
 
 
-### 🌀 𝘍𝘶𝘯 𝘔𝘰𝘥𝘦
+### 🌀 𝘍𝘶𝘯 𝘔𝘰𝘥𝘦 
 <ul>
 <li>🏋️ Gym — stronger every day</li>
 <li>📖 Reading — mythology &amp; classics</li>
