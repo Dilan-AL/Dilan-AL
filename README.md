@@ -40,9 +40,6 @@ Electrical & Electronics Engineering student at NIT Calicut. I build things that
 <img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=39FF14&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
-<br/><br/>
-<b>Quest Progress — SkyScan (AeroTHON 2026)</b><br/>
-<img src="https://img.shields.io/badge/80%25-39FF14?style=for-the-badge&labelColor=0D1117"/>
 
 </td>
 <td width="35%" valign="top">
