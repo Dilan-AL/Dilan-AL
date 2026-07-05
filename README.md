@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.svg" alt="Dilan A L" width="100%"/>
+<img src="https://github.com/Dilan-AL/Dilan-AL/blob/main/Profile.png" alt="Dilan A L" width="100%"/>
 </div>
 
 <br/>
