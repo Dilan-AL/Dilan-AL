@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Dilan-AL/Dilan-AL/blob/main/Profile.png" alt="Dilan A L" width="100%"/>
+<img src="./assets/banner.svg" alt="Dilan A L" width="100%"/>
 </div>
 
 <br/>
@@ -8,8 +8,7 @@
 <tr>
 <td width="65%" valign="top">
 
-
-<h3 style="color:purple; font-family:Arial; font-weight:bold;">🦾 About Me ............................................................</h3>
+<h3>🧑‍💻 About Me</h3>
 <ul>
 <li>Electrical &amp; Electronics Engineering student at NIT Calicut — Minor in UAV Systems</li>
 <li>Building things that fly, move, think, and automate</li>
