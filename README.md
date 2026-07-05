@@ -9,7 +9,7 @@
 <td width="65%" valign="top">
 
 
-<h3 style="color:purple; font-family:Arial; font-weight:bold;">🦾 About Me  . . . . . . . . . . . . . . . . . . . . . . . ......................................</h3>
+<h3 style="color:purple; font-family:Arial; font-weight:bold;">🦾 About Me ............................................................</h3>
 <ul>
 <li>Electrical &amp; Electronics Engineering student at NIT Calicut — Minor in UAV Systems</li>
 <li>Building things that fly, move, think, and automate</li>
