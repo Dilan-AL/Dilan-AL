@@ -32,13 +32,12 @@ Electrical & Electronics Engineering student at NIT Calicut. I build things that
 <b>Hardware</b><br/>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=39FF14&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Pixhawk-0D1117?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/STM32-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=39FF14&labelColor=0D1117"/>
 
 <b>Software</b><br/>
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,matlab,opencv"/>
-<img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=39FF14&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ROS-Dark.svg"/>
+
 
 
 </td>
