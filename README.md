@@ -36,7 +36,7 @@ Electrical & Electronics Engineering student at NIT Calicut. I build things that
 
 <b>Software</b><br/>
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,matlab,opencv"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ROS-Dark.svg"/>
+<img width="10%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ROS-Dark.svg"/>
 
 
 
