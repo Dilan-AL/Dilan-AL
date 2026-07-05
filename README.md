@@ -1,175 +1,86 @@
 <div align="center">
-
-# 👾 Dilan
-
-```
-██████╗ ██╗██╗      █████╗ ███╗   ██╗
-██╔══██╗██║██║     ██╔══██╗████╗  ██║
-██║  ██║██║██║     ███████║██╔██╗ ██║
-██║  ██║██║██║     ██╔══██║██║╚██╗██║
-██████╔╝██║███████╗██║  ██║██║ ╚████║
-╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-### 🎮 *Engineer • Builder • Problem Solver*
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Building+robots...;Flying+drones...;Writing+embedded+software...;Always+learning...)
-
+<img src="./assets/banner.png" alt="Dilan A L" width="100%"/>
 </div>
 
----
+<br/>
 
-## 🕹️ Player Profile
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-```yaml
-Name: Dilan
-Username: Dilan-AL
-Degree: B.Tech Electrical & Electronics Engineering
-Location: India
+<h3>🧑‍💻 About Me</h3>
+<ul>
+<li>Electrical &amp; Electronics Engineering student at NIT Calicut — Minor in UAV Systems</li>
+<li>Building things that fly, move, think, and automate</li>
+<li>Currently deep in ROS2 and computer vision</li>
+<li>Always learning. Always building.</li>
+</ul>
 
-Class:
-  - Embedded Systems
-  - Robotics
-  - Autonomous Systems
+<h3>🎯 Current Focus</h3>
+<img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Autonomous_Systems-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117"/>
+<img src="https://img.shields.io/badge/Embedded_Software-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117"/>
 
-XP:
-  - Learning ROS2
-  - Computer Vision
-  - AI
-  - Embedded Linux
+<h3>🛠️ Skills &amp; Tools</h3>
 
-Status: Building cool stuff...
-```
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=c,python,bash,html,css,js"/>
 
----
+<b>Hardware</b><br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Pixhawk-0D1117?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STM32-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=39FF14&labelColor=0D1117"/>
 
-# 🚀 Current Quest
+<b>Software</b><br/>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,matlab,opencv"/>
+<img src="https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
-🎯 Develop autonomous robotic systems
+<h3>🏆 GitHub Goals</h3>
+<img src="https://img.shields.io/badge/Embedded_Software-0D1117?style=for-the-badge&labelColor=0D1117"/> ➡️
+<img src="https://img.shields.io/badge/Robotics-0D1117?style=for-the-badge&labelColor=0D1117"/> ➡️
+<img src="https://img.shields.io/badge/Drone_Autonomy-0D1117?style=for-the-badge&labelColor=0D1117"/> ➡️
+<img src="https://img.shields.io/badge/Impact-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
-🎯 Learn ROS2 deeply
+<br/><br/>
+<b>Quest Progress — SkyScan (AeroTHON 2026)</b><br/>
+<img src="https://img.shields.io/badge/80%25-39FF14?style=for-the-badge&labelColor=0D1117"/>
 
-🎯 Build reliable embedded software
+</td>
+<td width="35%" valign="top">
 
-🎯 Explore computer vision for robotics
+<h3>🎮 Player Info</h3>
+<ul>
+<li>🕹️ GitHub: <a href="https://github.com/Dilan-AL">Dilan-AL</a></li>
+<li>🎓 Degree: B.Tech EEE, NIT Calicut</li>
+<li>📍 Base: India</li>
+<li>📧 Email: <a href="mailto:dilanal1979@gmail.com">dilanal1979@gmail.com</a></li>
+<li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/dilan-a-l-1535881a7/">dilan-a-l-1535881a7</a></li>
+</ul>
 
----
+<h3>🎵 Now Playing</h3>
+Focus Mode: On<br/>
+Building the future...
 
-# ⚙️ Inventory
+<h3>🌀 Fun Mode</h3>
+<ul>
+<li>🏋️ Gym — stronger every day</li>
+<li>📖 Reading — mythology &amp; classics</li>
+</ul>
 
-### Languages
+<h3>📊 GitHub Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Dilan-AL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilan-AL&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### Hardware
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi)
-![Pixhawk](https://img.shields.io/badge/Pixhawk-111111?style=for-the-badge)
-
----
-
-### Software
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Simulink](https://img.shields.io/badge/Simulink-orange?style=for-the-badge)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
----
-
-# 🧩 Current Loadout
-
-```
-🛸 Robotics
-████████████░░░░
-
-⚙️ Embedded Systems
-██████████████░░
-
-🤖 Computer Vision
-█████████░░░░░░░
-
-🧠 AI
-████████░░░░░░░░
-```
-
----
-
-# 🕹️ Side Quests
-
-🏋️ Gym
-
-🧩 Speedcubing
-
-☕ Debugging at 2 AM
-
----
-
-# 📊 Player Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dilan-AL&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-AL&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dilan-AL&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎮 Achievement Board
-
-🏆 Building robots that move
-
-🏆 Writing embedded software
-
-🏆 Learning something new every week
-
-⬜ Build a fully autonomous drone
-
-⬜ Open-source a robotics project
-
-⬜ Contribute to ROS
-
----
-
-# 📡 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dilan-a-l-1535881a7/)
-
-📧 **dilanal1979@gmail.com**
-
----
+</td>
+</tr>
+</table>
 
 <div align="center">
+<br/>
 
-```
-MISSION STATUS
-
-███████████████░░░░
-
-LEVEL 19
-XP: ALWAYS GROWING
-
-> Keep Building.
-```
+`> Thanks for visiting! Let's build something awesome together.`
 
 </div>
