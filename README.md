@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Dilan-AL/Dilan-AL/blob/main/README.md" width="100%"/>
+<img src="https://github.com/Dilan-AL/Dilan-AL/blob/main/Profile.png" width="100%"/>
 </div>
 
 <br/>
@@ -8,7 +8,8 @@
 <tr>
 <td width="65%" valign="top">
 
-<h3>🧑‍💻 About Me</h3>
+
+<h3>🦾 About Me</h3>
 <ul>
 <li>Electrical &amp; Electronics Engineering student at NIT Calicut — Minor in UAV Systems</li>
 <li>Building things that fly, move, think, and automate</li>
@@ -60,9 +61,7 @@
 <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/dilan-a-l-1535881a7/">dilan-a-l-1535881a7</a></li>
 </ul>
 
-<h3>🎵 Now Playing</h3>
-Focus Mode: On<br/>
-Building the future...
+
 
 <h3>🌀 Fun Mode</h3>
 <ul>
