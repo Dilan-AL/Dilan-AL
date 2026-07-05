@@ -9,7 +9,7 @@
 <td width="65%" valign="top">
 
 
-## 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Electrical & Electronics Engineering student at NIT Calicut. I build things that fly, move, think and automate.
 <ul>
 <li>Passionate about Embedded Systems, Robotics and Autonomous Systems</li>
